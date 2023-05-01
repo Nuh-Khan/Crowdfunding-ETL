@@ -1,1 +1,3 @@
 # Crowdfunding-ETL
+
+In this project, SQL was employed to gather data on crowdfunded initiatives, with the ultimate goal of providing project owners and supporters with the financial details of ongoing campaigns. The extracted information reveals the remaining amount required to achieve the pledged goals, enabling campaign owners to reach out to potential contributors and bridge the funding gap. Furthermore, the data enables campaign owners to notify existing donors of the remaining amount, encouraging them to either increase their donations or raise awareness of the campaign, as they have already demonstrated their support for the project.
